@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "malacaton",
+    "id": 0,
+    "precio": 10,
+    "stock": 100,
+    "categoria": "frutas",
+    "caducidad": "2023-12-24T17:27:32.5199926+01:00",
+    "descatalogado": false
+  },
+  {
+    "nombre": "pepinillo",
+    "id": 1,
+    "precio": 1,
+    "stock": 100,
+    "categoria": "frutas",
+    "caducidad": "2023-12-24T17:27:32.5314609+01:00",
+    "descatalogado": false
+  },
+  {
+    "nombre": "lechuga",
+    "id": 2,
+    "precio": 5,
+    "stock": 97,
+    "categoria": "hortalizas",
+    "caducidad": "2023-12-25T11:02:19.5254405+01:00",
+    "descatalogado": false
+  }
+]
