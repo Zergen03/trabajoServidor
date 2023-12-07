@@ -1,0 +1,33 @@
+[
+  {
+    "nombre": "",
+    "apellido": "",
+    "correo": "admin@gmail.com",
+    "password": "admin",
+    "id": 0,
+    "saldo": 100,
+    "Mochila": {},
+    "Mercado": []
+  },
+  {
+    "nombre": "k0",
+    "apellido": "\u252C\u00EDki",
+    "correo": "alex",
+    "password": "0oki0oj",
+    "id": 1,
+    "saldo": 2
+    ,
+    "Mochila": {
+      "2": 3
+    },
+    "Mercado": [
+      {
+        "UsuarioId": 1,
+        "ProductoId": 2,
+        "cantidad": 3,
+        "accion": "compra",
+        "precio": 15
+      }
+    ]
+  }
+]
